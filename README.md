@@ -42,3 +42,4 @@ This is the system configuration for [flaky.town](https://flaky.town), a NixOS-b
 | gotify            | push notifications          | Go       | [website](https://gotify.net/)              |       |
 | conduit           | matrix server               | Rust     | [website](https://conduit.rs/)              |       |
 | nginx?            | reverse proxy / HTTP server | C        | [website](https://www.nginx.com/)           |       |
+| syncthing         | P2P file sync               | Go       | [website](https://syncthing.net/)           |       |
